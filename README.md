@@ -12,5 +12,9 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 + **CSS3:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo
 + **google fonts:** Para fuentes personalizadas.
 
+### Vista previa
+![Texto alternativo](Breadcrumbspinterest-interface/Imagenes/pinterest.png)
+
+
 ### Contacto
 Escribeme por [LinkedIn](https://www.linkedin.com/in/nayeli-zapata-alvarez-221562263/)
