@@ -13,7 +13,7 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 + **google fonts:** Para fuentes personalizadas.
 
 ### Vista previa
-![Texto alternativo](Breadcrumbspinterest-interface/Imagenes/pinterest.png)
+![Texto alternativo](Imagenes/pinterest.png)
 
 
 ### Contacto
